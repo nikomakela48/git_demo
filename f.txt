@@ -1,1 +1,2 @@
 Lisäsin tämän GitHubissa
+Tätä tekstiä ei ole paikallisessa hakemistossa
